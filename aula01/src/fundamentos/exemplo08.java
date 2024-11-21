@@ -1,7 +1,6 @@
 package fundamentos;
 
 public class exemplo08 {
-
 	public static void main(String[] args) {
 		int idade = 15;
 		boolean amigoDoDono = true;

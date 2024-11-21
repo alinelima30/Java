@@ -5,7 +5,6 @@ package fundamentos; //Fazer um programa que faça 5 perguntas para uma pessoa s
 //"Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 
 import java.util.Scanner;
-
 public class exemplo14 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
