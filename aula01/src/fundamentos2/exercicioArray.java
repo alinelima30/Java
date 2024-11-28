@@ -40,6 +40,7 @@ public class exercicioArray {
 		System.out.println();
 		for(int i : arrayD) {
 			System.out.print(i+" ");
+			entrada.close();
 		}
 	}
 }

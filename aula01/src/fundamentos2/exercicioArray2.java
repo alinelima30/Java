@@ -16,5 +16,6 @@ public class exercicioArray2 {
 		}
 		media = soma/arrayNotas.length;
 		System.out.println(media);
+		entrada.close();
 	}
 }
