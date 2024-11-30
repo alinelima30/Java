@@ -1,8 +1,9 @@
 package JavaPOO;
 public class ClassePessoa {
-		String nome;
+		String nome01;
+		String nome02;
 		public void comer() {
-			System.out.println("Está comendo...");
+			System.out.printf("%S e %S estão comendo...", nome01, nome02);
 		}
 
 	}
