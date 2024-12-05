@@ -16,4 +16,10 @@ this.cor = cor;
 this.modelo = modelo;
 this.preco = preco;
 }
+public void ligarCarro() {
+	System.out.println("Carro ligado!");
+}
+public void desligarCarro() {
+	System.out.println("Carro desligado!");
+}
 }

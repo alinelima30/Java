@@ -1,10 +1,10 @@
 package Metodos;
 public class JavaMetodos {
 	int idade() {
-		return 25;
+		return 30;
 	}	
-	double valor() {
-		return 25.50;
+	double peso() {
+		return 68.00;
 	}
 	String nome() {
 		return "Aline";
